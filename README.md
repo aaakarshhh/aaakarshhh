@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSec
 - 🌱 I’m currently studying CSE 
 - 💞️ I’m looking to collaborate on (https://github.com/topics/cybersec)
-- 📫 How to reach me aaakarshhh__ @instagram
+- 📫 How to reach me @instagram aaakarshhh__
 ...
 
 <!---
